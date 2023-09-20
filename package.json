@@ -1,0 +1,19 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "lerna run build",
+    "publish": "lerna publish from-package --registry=https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "lerna": "^7.2.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+   
+  }
+}

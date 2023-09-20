@@ -1,0 +1,36 @@
+{
+  "name": "@legrandav-components/react",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Avinash",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "repository": "https://github.com/Avinash-Murugappan/monorepolav.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@legrandavcomponents",
+    "access": "public"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/react-library.test.js",
+    "build": "npm run tsc",
+    "tsc": "tsc -p . --outDir ./dist"
+  },
+  "dependencies": {
+    "@legrandav-components/core": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.2.2"
+  }
+}
