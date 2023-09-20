@@ -32,5 +32,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "typescript": "^5.2.2"
-  }
+  },
+  "gitHead": "d815c385ca9056690f9cbafdb2dda81bd639c4e4"
 }

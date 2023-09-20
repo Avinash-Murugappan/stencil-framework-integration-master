@@ -24,5 +24,6 @@
   },
   "dependencies": {
     "@legrandav-components/core": "^0.0.1"
-  }
+  },
+  "gitHead": "d815c385ca9056690f9cbafdb2dda81bd639c4e4"
 }
