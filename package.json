@@ -5,8 +5,7 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "lerna run build",
-    "publish": "lerna publish from-package --registry=https://registry.npmjs.org/"
+    "build": "lerna run build"
   },
   "devDependencies": {
     "@types/node": "^20.5.7",

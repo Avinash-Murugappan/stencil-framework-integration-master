@@ -1,6 +1,6 @@
 {
   "name": "@legrandav-components/core",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Stencil Component Starter",
   "main": "dist/index.cjs.js",
   "module": "dist/index.js",
@@ -12,7 +12,7 @@
   "repository": "https://github.com/Avinash-Murugappan/stencil-framework-integration-master.git",
   "author": "Avinash",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@avinash_27"
+    "registry": "https://npm.pkg.github.com/@legrandav-ui-library"
   },
   "files": [
     "dist/",
@@ -38,5 +38,5 @@
     "puppeteer": "^21.0.3"
   },
   "license": "MIT",
-  "gitHead": "2eb3afadf00ff011a775ea5d4cc52fe9f5b0c78d"
+  "gitHead": "1347d7fb3a6b7c0b2dccc78c4aec58d3d1f3ae17"
 }
