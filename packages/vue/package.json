@@ -12,7 +12,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Avinash-Murugappan/monorepolav.git",
+  "repository": "https://github.com/Avinash-Murugappan/stencil-framework-integration-master.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@legrandavcomponents",
     "access": "public"
@@ -25,5 +25,5 @@
   "dependencies": {
     "@legrandav-components/core": "^0.1.0"
   },
-  "gitHead": "d1272ee8be86980e599ccd07c72ef680ec82ca71"
+  "gitHead": "abbd4d841cfddfa0df4a0045e6b4ea452ea35196"
 }

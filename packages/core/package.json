@@ -9,7 +9,7 @@
   "types": "dist/types/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "repository": "https://github.com/Avinash-Murugappan/monorepolav.git",
+  "repository": "https://github.com/Avinash-Murugappan/stencil-framework-integration-master.git",
   "author": "Avinash",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@legrandavcomponents"
@@ -38,5 +38,5 @@
     "puppeteer": "^21.0.3"
   },
   "license": "MIT",
-  "gitHead": "d1272ee8be86980e599ccd07c72ef680ec82ca71"
+  "gitHead": "abbd4d841cfddfa0df4a0045e6b4ea452ea35196"
 }
