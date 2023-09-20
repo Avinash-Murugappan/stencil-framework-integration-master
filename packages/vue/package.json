@@ -1,6 +1,6 @@
 {
   "name": "@legrandav-components/vue",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "> TODO: description",
   "author": "Avinash",
   "license": "ISC",
@@ -23,7 +23,7 @@
     "tsc": "tsc -p . --outDir ./dist"
   },
   "dependencies": {
-    "@legrandav-components/core": "^0.1.1"
+    "@legrandav-components/core": "^0.1.2"
   },
   "gitHead": "1ff6a74736859fe0fbbfa6f8431b645af1a3adf2"
 }
