@@ -14,7 +14,7 @@
   ],
   "repository": "https://github.com/Avinash-Murugappan/stencil-framework-integration-master.git",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@legrandavcomponents",
+    "registry": "https://npm.pkg.github.com/@avinash_27",
     "access": "public"
   },
   "scripts": {
@@ -25,5 +25,5 @@
   "dependencies": {
     "@legrandav-components/core": "^0.1.3"
   },
-  "gitHead": "f3b49d941c10b9341ccb27af7779d46f7cc0cdd8"
+  "gitHead": "41e5d253ce06cb26de0dcc0d2b379a96391c3a87"
 }
